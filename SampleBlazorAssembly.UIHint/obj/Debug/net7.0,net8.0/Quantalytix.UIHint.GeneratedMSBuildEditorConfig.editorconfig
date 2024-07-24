@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = Quantalytix.UIHint
+build_property.ProjectDir = D:\Quantalytix\SampleBlazorAssembly\Quantalytix.UIHint\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

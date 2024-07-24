@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Quantalytix\\SampleBlazorAssembly\\bin\\Debug\\net7.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "D:\\Quantalytix\\SampleBlazorAssembly\\obj\\Debug\\net7.0\\compressed\\hdkyvh6qow.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "D:\\Quantalytix\\SampleBlazorAssembly\\obj\\Debug\\net7.0\\scopedcss\\bundle\\SampleBlazorAssembly.styles.css",
+      "PackagePath": "staticwebassets\\SampleBlazorAssembly.styles.css"
+    },
+    {
+      "Id": "D:\\Quantalytix\\SampleBlazorAssembly\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "D:\\Quantalytix\\SampleBlazorAssembly\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.SampleBlazorAssembly.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.SampleBlazorAssembly.props",
+      "PackagePath": "build\\SampleBlazorAssembly.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.SampleBlazorAssembly.props",
+      "PackagePath": "buildMultiTargeting\\SampleBlazorAssembly.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.SampleBlazorAssembly.props",
+      "PackagePath": "buildTransitive\\SampleBlazorAssembly.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

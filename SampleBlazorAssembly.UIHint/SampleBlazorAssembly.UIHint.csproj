@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFrameworks>net7.0;net8.0</TargetFrameworks>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <RootNamespace>Quantalytix.UIHint</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Elsa.Api.Client" Version="3.2.0-rc3" />
+      <PackageReference Include="Elsa.Studio.Core" Version="3.2.0-rc3" />
+      <PackageReference Include="Elsa.Studio.Shared" Version="3.2.0-rc3" />
+      <PackageReference Include="Elsa.Studio.UIHints" Version="3.2.0-rc3" />
+    </ItemGroup>
+
+</Project>

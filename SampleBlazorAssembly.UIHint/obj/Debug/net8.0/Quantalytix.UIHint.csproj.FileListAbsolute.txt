@@ -1,0 +1,12 @@
+D:\Quantalytix\SampleBlazorAssembly\Quantalytix.UIHint\bin\Debug\net8.0\Quantalytix.UIHint.deps.json
+D:\Quantalytix\SampleBlazorAssembly\Quantalytix.UIHint\bin\Debug\net8.0\Quantalytix.UIHint.dll
+D:\Quantalytix\SampleBlazorAssembly\Quantalytix.UIHint\bin\Debug\net8.0\Quantalytix.UIHint.pdb
+D:\Quantalytix\SampleBlazorAssembly\Quantalytix.UIHint\obj\Debug\net8.0\Quantalytix.UIHint.csproj.AssemblyReference.cache
+D:\Quantalytix\SampleBlazorAssembly\Quantalytix.UIHint\obj\Debug\net8.0\Quantalytix.UIHint.GeneratedMSBuildEditorConfig.editorconfig
+D:\Quantalytix\SampleBlazorAssembly\Quantalytix.UIHint\obj\Debug\net8.0\Quantalytix.UIHint.AssemblyInfoInputs.cache
+D:\Quantalytix\SampleBlazorAssembly\Quantalytix.UIHint\obj\Debug\net8.0\Quantalytix.UIHint.AssemblyInfo.cs
+D:\Quantalytix\SampleBlazorAssembly\Quantalytix.UIHint\obj\Debug\net8.0\Quantalytix.UIHint.csproj.CoreCompileInputs.cache
+D:\Quantalytix\SampleBlazorAssembly\Quantalytix.UIHint\obj\Debug\net8.0\Quantalytix.UIHint.dll
+D:\Quantalytix\SampleBlazorAssembly\Quantalytix.UIHint\obj\Debug\net8.0\refint\Quantalytix.UIHint.dll
+D:\Quantalytix\SampleBlazorAssembly\Quantalytix.UIHint\obj\Debug\net8.0\Quantalytix.UIHint.pdb
+D:\Quantalytix\SampleBlazorAssembly\Quantalytix.UIHint\obj\Debug\net8.0\ref\Quantalytix.UIHint.dll
